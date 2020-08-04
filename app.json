@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Verba",
-    "slug": "Verba",
+    "slug": "verba",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,7 +11,7 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 2000
     },
     "assetBundlePatterns": [
       "**/*"
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is a great app for practicing your vocabulary if you want to learn Norwegian."
   }
 }
